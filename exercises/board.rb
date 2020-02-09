@@ -66,6 +66,7 @@ class Board
   end
 
   # Moj pierwszy git pull
+  #Moj drugi git push 
   # Returns the piece at (row, column) on the board and nil otherwise, e.g.,
   #   board = Board.new(9,9)
   #
